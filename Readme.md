@@ -3,5 +3,6 @@
 # Description
 GIT Merupakan tools untuk membantu melakukan management project directory.
 
-## Section 1.A
+## Initializaation
+
 ### Section 1.A.1
